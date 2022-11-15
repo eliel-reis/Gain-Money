@@ -1,0 +1,22 @@
+.App {
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.767);
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+button {
+  border: none;
+  border-radius: 50%;
+  background-color: rgb(255, 241, 49);
+  margin-top: 40vh;
+  height: 100px;
+  width: 100px;
+}
+
+button > p {
+  letter-spacing: 0.5px;
+  font-weight: bolder;
+  font-size: 15px;
+}
